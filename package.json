@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ajaySingh2615/Project-Management/issues"
   },
-  "homepage": "https://github.com/ajaySingh2615/Project-Management#readme"
+  "homepage": "https://github.com/ajaySingh2615/Project-Management#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }
