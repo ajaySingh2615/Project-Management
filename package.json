@@ -1,0 +1,20 @@
+{
+  "name": "proj-management",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaySingh2615/Project-Management.git"
+  },
+  "author": "Ajay Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaySingh2615/Project-Management/issues"
+  },
+  "homepage": "https://github.com/ajaySingh2615/Project-Management#readme"
+}
