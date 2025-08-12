@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/ajaySingh2615/Project-Management#readme",
   "devDependencies": {
+    "nodemon": "^3.1.10",
     "prettier": "3.6.2"
   }
 }
